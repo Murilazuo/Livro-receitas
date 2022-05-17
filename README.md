@@ -1,4 +1,4 @@
-Repositório criado para entender na prática o uso de Git e GitHub
+Repositório criado o curso da DIO Introdução ao Git e Github.
 
 # Livro de Receitas
 
